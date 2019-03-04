@@ -47,7 +47,7 @@ function getRandomQuote() {
 
 /*
 	The second function generates a random color and stores it in the variable randomColor.
-	Code adapted from https://www.w3resource.com/javascript-exercises/javascript-math-exercise-40.php.
+	Code adapted from https://www.w3resource.com/javascript-exercises/javascript-math-exercise-40.php
 */
 
 function randomColor() {
